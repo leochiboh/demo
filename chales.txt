@@ -1,3 +1,6 @@
 testing
 running
 echo
+moses
+dominion
+omega
